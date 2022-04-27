@@ -1,2 +1,2 @@
 # dataset
-Industrial Character Recognition Dataset
+Industrial Character Recognition Dataset built for our paper
