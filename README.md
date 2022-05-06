@@ -15,7 +15,6 @@ The structure of 'dataset' is as follows:
 │   └── raw  ：The output image by compositing
 
 └── data_real
-
     ├── label  ：labels for the training set, test set and validation set
     
     ├── original_image  ：Image before performing data enhancement
