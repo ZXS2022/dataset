@@ -16,6 +16,7 @@ The structure of 'dataset' is as follows:
 　　　　├── original_image  ：Image before performing data enhancement  
 　　　　└── raw  ：Image after data enhancement  
 
+Please cite:
 @article{XINSHENG2022103732,  
 title = {Industrial character recognition based on improved CRNN in complex environments},  
 journal = {Computers in Industry},  
